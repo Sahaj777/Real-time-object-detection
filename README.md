@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/umutonuryasar/Real-Time-Object-Detection.git
+   git clone git@github.com:Sahaj777/Real-time-object-detection.git
    cd Real-Time-Object-Detection
 
 2. Install the required Python packages using pip:
